@@ -8,7 +8,7 @@ AllLife Bank wants to focus on its credit card customer base in the next financi
 
 To identify different segments in the existing customer based on their spending patterns as well as past interaction with the bank.
 
-** Key Questions:**
+**Key Questions:**
 
 - How many different segments of customers are there?
 - How are these segments different from each other?
