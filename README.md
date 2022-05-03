@@ -14,11 +14,12 @@ To identify different segments in the existing customer based on their spending 
 - How are these segments different from each other?
 - What are your recommendations to the bank on how to better market to and service these customers?
 
-**Data Description:
+**Data Description:**
 
 Data is of various customers of a bank with their credit limit, the total number of credit cards the customer has, and different channels through which customer has contacted the bank for any queries, different channels include visiting the bank, online and through a call centre.
 
 **Data Dictionary**
+
 - Sl_No: Primary key of the records
 - Customer Key: Customer identification number
 - Average Credit Limit: Average credit limit of each customer for all credit cards
